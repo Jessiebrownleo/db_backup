@@ -1,0 +1,2 @@
+0 2 * * * /path/to/mysql_backup.sh
+0 2 * * * /path/to/postgres_backup.sh
